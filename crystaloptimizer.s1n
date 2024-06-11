@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28315.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{YOUR-SOLUTION-GUID-HERE}") = "CrystalOptimizer", "CrystalOptimizer.vcxproj", "{YOUR-PROJECT-GUID-HERE}"
+Project("{YOUR-SOLUTION-GUID-HERE}") = "CrystalOptimizer", "CrystalOptimizer.vcxproj", "{https://github.com/A1B-1/FastCrystals-Bedrock-Edition-/tree/main"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
